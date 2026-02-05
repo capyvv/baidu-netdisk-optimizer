@@ -2,11 +2,11 @@
 // @name         BaiduPan-UI-Enhancer
 // @name:zh-CN   百度网盘文件列表UI优化
 // @namespace    http://tampermonkey.net/
-// @version      1.0
-// @license MIT
+// @version      1.3
+// @license      GPL
 // @description  Combines compact table layout customization and share dialog optimizations.
 // @description:zh-CN  合集：1. 紧凑表格布局（隐藏大小类型列、最大化文件名显示、侧边栏开关）；2. 分享对话框优化（拖拽调整大小、禁用返回、面包屑导航增强）。
-// @author       Merged Script
+// @author       Atom
 // @match        https://pan.baidu.com/*
 // @match        https://yun.baidu.com/*
 // @grant        GM_addStyle
